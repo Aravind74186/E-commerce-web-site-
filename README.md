@@ -28,7 +28,17 @@ A modern, full-featured e-commerce platform for jewelry and cosmetics built with
 
 ## 🚀 Live Demo
 
-Visit the live site: [Kavs Glamstone](https://github.com/Aravind74186/E-commerce-web-site-)
+**[View Live Demo →](https://aravind74186.github.io/E-commerce-web-site-/)**
+
+Experience the full application with all features including:
+- Browse products across multiple categories
+- Add items to cart and wishlist
+- Complete checkout process
+- Login as manager to access inventory dashboard
+
+### Test Credentials:
+- **Manager**: `admin` / `admin123`
+- **Customer**: `user` / `user123`
 
 ## 📸 Screenshots
 
